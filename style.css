@@ -1,4 +1,9 @@
-.main{ background-image: url(./bir.jpg); 
+.main{ 
+    background-image :url( ./bir.jpg );
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* for Safari */
+  padding: 2rem;
+  color: white;
  background-size:700px   
 }
 .styling{
