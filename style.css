@@ -1,13 +1,30 @@
-.main{
-     border: 50px  black solid ; width: 93%; height: 900px;
+.main{ background-image: url(./bir.jpg); 
+ background-size:700px   
 }
 .styling{
     display: flex; justify-content: center;
- margin-top: 15px;
+ margin-top: 15px;color: white;
 }
 .style{
     margin-inline: 20px; 
 }
 .text-style{
-    font-size: 30px; color: red;
+    font-size: 25px; color: red; 
+}
+.text{
+    color: rgb(251, 255, 0); 
+     font-size: 25px;
+   
+
+}
+.para{
+    color: white;
+    text-align: center;
+}
+.img-styling   {
+  display: flex; justify-content: center;
+  
+}
+figure{
+    text-align: center; margin: 1%;
 }
