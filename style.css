@@ -42,13 +42,35 @@ figure{
 .img1{
     border: 10px white solid;
 }
- figcaption h5  {
-   color:yellow;
+ figcaption strong  {
+  color:#F5EEDC;text-align: center;
 }
 .img2{
+
     border: 10px white solid;
-}
+    display: block; 
+      margin: 0 auto;
+    }
+
+    figcaption{
+        text-align: center;
+    }
 .img3{
     border: 10px white solid;
 }
 
+.ending
+{
+    text-align: center; color: yellow;
+}
+p{
+    text-align: center;
+    font-size: ;
+}
+h1{
+    text-align: center; color:yellow    ;
+}
+.img-ending   {
+  display: flex; justify-content: center;
+  text-align: center;
+}
