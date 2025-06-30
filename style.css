@@ -1,7 +1,7 @@
 .main{ 
-    background-image :url( ./bir.jpg );
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px); /* for Safari */
+    background-image :url( ./bir.jpg);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px); /* for Safari */
   padding: 2rem;
   color: white;
  background-size:700px   
@@ -33,3 +33,10 @@
 figure{
     text-align: center; margin: 1%;
 }
+.video{
+    width: 100%; height: 300px; 
+   
+    
+}
+
+
