@@ -8,13 +8,13 @@
 }
 .styling{
     display: flex; justify-content: center;
- margin-top: 5px;color: white;
+color: white;
 }
 .style{
     margin-inline: 20px; 
 }
 .text-style{
-    font-size: 30px; color: red; 
+    font-size: 33px; color: red; 
 }
 .text{
     color: rgb(251, 255, 0); 
@@ -76,11 +76,14 @@ h1{
     text-align: center; color:yellow    ;
 }
 .img-ending   {
-  display: flex; justify-content: center;
+  display: flex; justify-content: center; 
  
 }
+figcaption h1{
+    color: red; font-size: 40px;
+}
 .img4{
-    width: 300px; height: 300px ; 
+    width: 350px; height: 300px ; 
 }
 /*.img5{
      padding-right: 10px; width: 100px; height: 100px ;
@@ -88,3 +91,10 @@ h1{
 .img6{
     width: 100px; height: 100px;
 }*/
+
+.last-text strong{
+    color: red; font-size: 20px;
+}
+.last-text{
+    color: white;font-size: 16px;
+}
