@@ -1,17 +1,24 @@
-.main{ color: white;
-    background-image :url( ./bir.jpg);
+.main{
+   
+    color: white;
+    background-image :url( ./bir\ copy.jpg);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px); /* for Safari */
   padding: 2rem;
   color: white;
- background-size:700px   
+ background-size:700px  
+ 
 }
 .styling{
     display: flex; justify-content: center;
 color: white;
+   
 }
 .style{
-    margin-inline: 20px; margin-top: 0%; font-size: ;
+    margin-inline: 20px;
+     margin-top: 0%;
+      font-size: ;
+       
 }
 .size{
     font-size:45px ;
@@ -35,7 +42,7 @@ color: white;
 .img-styling   {
   display: flex; justify-content: center; 
   margin-top: 40px;
-  
+      
 }
 figure{
     text-align: center; margin: 1%;
@@ -43,19 +50,19 @@ figure{
 .video{
     width: 30%; height: 300px; border: 8px white solid ;
    margin-top: 45px;
-    
+     
 }
 
 .img1{
     border : 10px white solid;   width: 27% ;display: block;  margin-left: 180px; height: 190px;
     margin-right: 300px;
-
+   
 }
  figcaption strong  {
   color:#F5EEDC;text-align: center;
 }
 .img2{
-
+    
     border: 10px white solid; width: 140px; height:190px; 
     display: block; 
       margin: 0 auto;
@@ -65,6 +72,7 @@ figure{
         text-align: center;
     }
 .img3{
+        
     border: 10px white solid;
     width: 26%; margin-left: 180px;
     display: block;
@@ -82,24 +90,27 @@ figcaption{
 
 .ending p{
     color: white;
+        
 }
 p{
     text-align: center;
-    font-size: ;
+    
 }
 h1{
     text-align: center; color:yellow    ;
     margin-top:60px;
+        
 }
 .img-ending   {
   display: flex; justify-content: center; 
- 
+   
 }
 figcaption h1{
     color: red; font-size: 40px;
 }
 .img4{
     width: 350px; height: 300px ; 
+        
 }
 /*.img5{
      padding-right: 10px; width: 100px; height: 100px ;
